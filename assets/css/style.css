@@ -23,4 +23,11 @@ border-color: aliceblue;
 p {
     color: aliceblue;
     padding-left: 30px;
+    
+}
+
+#reset-button {
+    margin-left: 20px;
+    background-color: rgb(25, 25, 129);
+    color: cornflowerblue;
 }
